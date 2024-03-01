@@ -1,0 +1,3 @@
+"AudioCaptureAllowedUrls": ["https://web.skype.com/", "https://skype.com/"],
+"VideoCaptureAllowedUrls": ["https://web.skype.com/", "https://skype.com/"],
+"DefaultNotificationsSetting": 2,
